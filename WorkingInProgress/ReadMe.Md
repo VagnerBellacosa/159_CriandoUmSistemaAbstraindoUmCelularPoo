@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um Sistema e Abstraindo um Celular com POO](https://web.dio.me/lab/criando-um-sistema-e-abstraindo-um-celular-com-poo/learning/76fc0b0b-6e24-4bb8-baca-a262b9af3d6f)[Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/criando-um-sistema-e-abstraindo-um-celular-com-poo/learning/a4238025-c63c-48c2-8027-addffe965977)
+- [Criando um Sistema e Abstraindo um Celular com POO](https://web.dio.me/lab/criando-um-sistema-e-abstraindo-um-celular-com-poo/learning/76fc0b0b-6e24-4bb8-baca-a262b9af3d6f)
+- [Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/criando-um-sistema-e-abstraindo-um-celular-com-poo/learning/a4238025-c63c-48c2-8027-addffe965977)
 
 
 
